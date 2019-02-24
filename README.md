@@ -1,10 +1,15 @@
-# Community-Recommended
+# community-recommended
 
 All the resources & recommendations from the community.
 
+## Top Contributors
+
+[![](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/images/0)](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/links/0)[![](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/images/1)](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/links/1)[![](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/images/2)](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/links/2)[![](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/images/3)](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/links/3)[![](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/images/4)](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/links/4)[![](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/images/5)](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/links/5)[![](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/images/6)](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/links/6)[![](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/images/7)](https://sourcerer.io/fame/xlogix/fnplus/community-recommended/links/7)
+
+## Table of Contents
 
 
-## Getting Started
+
 
 #### Setup devices
 
@@ -12,7 +17,6 @@ All the resources & recommendations from the community.
 
 
 
-## Basic CS
 
 #### It is recommended if you are new to computer science!
 
@@ -24,14 +28,10 @@ All the resources & recommendations from the community.
 
 * [Git Tips](https://github.com/alexpate/awesome-design-systems)
 
-
-
-
 * [Beginners](https://github.com/MunGell/awesome-for-beginners)
 
 
 
-## StyleGuides
 
 * [Google](https://github.com/google/styleguide)
 
@@ -40,11 +40,6 @@ All the resources & recommendations from the community.
 ## Research Papers
 
 - [Link](https://github.com/papers-we-love/papers-we-love)
-
-  
-
-
-
 
 #### A curated list of software and architecture related design patterns.
 
@@ -56,7 +51,6 @@ All the resources & recommendations from the community.
 
 
 
-## Augmented Reality
 
 #### A curated list of augemented reality resources.
 
@@ -64,19 +58,16 @@ All the resources & recommendations from the community.
 
 
 
-## Android
 
 * [Architecture](https://github.com/ribot/android-guidelines)
 
 
 
-## CSS
 
 * [Awesome](https://github.com/awesome-css-group/awesome-css)
 
 
 
-## Cloud Guides
 
 * [AWS](https://github.com/open-guides/og-aws)
 
@@ -96,6 +87,5 @@ All the resources & recommendations from the community.
 
 
 
-## Security
 
 * [Android](https://github.com/ashishb/android-security-awesome)
