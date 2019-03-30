@@ -1,4 +1,4 @@
-# community-recommended
+# community-resource-list-for-learners
 
 All the resources & recommendations from the community.
 
