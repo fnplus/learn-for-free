@@ -1,6 +1,6 @@
 # community-resource-list-for-learners
 
-All the resources & recommendations from the community.
+All the resources & recommendations from the community. This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-resource-list.svg)](http://hits.dwyl.io/fnplus/community-resource-list) people starting from 17th May 2019.
 
 ## Top Contributors
 
