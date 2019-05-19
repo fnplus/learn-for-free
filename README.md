@@ -87,3 +87,7 @@ All the resources & recommendations from the community. This repo have been seen
 ## Security
 
 -   [Android](https://github.com/ashishb/android-security-awesome)
+
+## Artificial Intelligence
+
+-   [fast.ai](https://www.fast.ai/)
