@@ -75,6 +75,12 @@ All the resources & recommendations from the community. This repo have been seen
 ## Machine Learning
 
 -   [Awesome](https://github.com/josephmisiti/awesome-machine-learning)
+
+-   [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
+-   [MIT's Deep Learning Course](https://deeplearning.mit.edu/)
+
+-   [FastAI's Machine Learning Course](http://course18.fast.ai/ml)
     
 
 ## Web Development
@@ -91,3 +97,5 @@ All the resources & recommendations from the community. This repo have been seen
 ## Artificial Intelligence
 
 -   [fast.ai](https://www.fast.ai/)
+
+-   [CS 188 - Berkeley's AI Course](https://inst.eecs.berkeley.edu/~cs188/fa18/)
