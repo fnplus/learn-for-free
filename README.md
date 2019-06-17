@@ -75,6 +75,7 @@ All the resources & recommendations from the community. This repo have been seen
 ## Machine Learning
 
 -   [Awesome](https://github.com/josephmisiti/awesome-machine-learning)
+-   [ML-Resources](https://github.com/AkashM398/ML-Resources)
     
 
 ## Web Development
