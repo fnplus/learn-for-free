@@ -92,6 +92,8 @@ All the resources & recommendations from the community. This repo have been seen
 
 ## Security
 
+-   [Get started in Cyber Security](https://github.com/NAVHITS/cyber-security-resources)
+
 -   [Android](https://github.com/ashishb/android-security-awesome)
 
 ## Artificial Intelligence
