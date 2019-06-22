@@ -9,12 +9,11 @@ All the resources & recommendations from the community. This repo have been seen
 ## Table of Contents
 
 
-
 ## Getting Started
 
 #### Setup devices
 
-[Mac](https://github.com/donnemartin/dev-setup)
+-   [Mac](https://github.com/donnemartin/dev-setup)
 
 ## Basic CS
 
@@ -70,8 +69,8 @@ All the resources & recommendations from the community. This repo have been seen
 ## Cloud Guides
 
 -   [AWS](https://github.com/open-guides/og-aws)
-    
 
+    
 ## Machine Learning
 
 -   [Awesome](https://github.com/josephmisiti/awesome-machine-learning)
@@ -81,20 +80,21 @@ All the resources & recommendations from the community. This repo have been seen
 -   [MIT's Deep Learning Course](https://deeplearning.mit.edu/)
 
 -   [FastAI's Machine Learning Course](http://course18.fast.ai/ml)
-    
 
+    
 ## Web Development
 
 -   [Roadmap](https://github.com/kamranahmedse/developer-roadmap)
     
--   [Resources](https://github.com/geeksgarage/resources-full-stack-web-developer)
-    
+-   [Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+
 
 ## Security
 
 -   [Get started in Cyber Security](https://github.com/NAVHITS/cyber-security-resources)
 
 -   [Android](https://github.com/ashishb/android-security-awesome)
+
 
 ## Artificial Intelligence
 
