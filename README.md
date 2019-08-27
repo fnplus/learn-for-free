@@ -85,3 +85,5 @@ All the resources & recommendations from the community. This repo have been seen
 - [fast.ai](https://www.fast.ai/)
 
 - [CS 188 - Berkeley's AI Course](https://inst.eecs.berkeley.edu/~cs188/fa18/)
+
+- [Welcome to AI-Udacity](https://classroom.udacity.com/courses/cs271)
