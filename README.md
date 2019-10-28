@@ -25,36 +25,10 @@ All the resources & recommendations from the community. This repo have been seen
 
 [![C++ Programming Tutorial by Caleb Curry](https://user-images.githubusercontent.com/51238282/66482450-9838f200-eac0-11e9-98e5-ee0ee328d233.png)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
 
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-> You Don't Know JS is a free series of books for learning JavaScript at a deep level. Pick this resource if you want a strong understanding of JavaScript.
-
-[![you don't know js github](https://user-images.githubusercontent.com/4047597/66125034-93c59280-e603-11e9-9821-e7e01c360072.png)](https://github.com/getify/You-Dont-Know-JS)
-
-- [JavaScript.Info](https://javascript.info)
-> JavaScript.info is a web tutorial where you can find articles related to JavaScript from noob to advanced.
-
-[![javascript.info](https://user-images.githubusercontent.com/29889620/66137872-5e2ca380-e61b-11e9-9265-1841f4512527.png)](https://javascript.info)
-
-- [Node.js Crash Course by Traversy Media](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
-> This course covers all Node.js fundamentals and teaches the important modules like Path, URL, FS, Events. Thereafter it shows how to create an HTTP server from scratch without Express and deploy everything to Heroku. Its very good for begginers to get a hands-on feel quickly.
-
-[![Node.js Crash Course by Traversy Media](https://user-images.githubusercontent.com/1084664/66899370-74256580-f018-11e9-9f91-4934446daa97.png)](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
-
 - [Python for Beginners by Mosh Hamedani](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 > This is easy to grasp highly rated Python tutorial on Youtube. All concepts are explained in crystal clear manner suitable for beginners. In later half, it also dives into 3 practical projects which helps in assimilating all the learning throughout.
 
 [![Python for Beginners by Mosh Hamedani](https://user-images.githubusercontent.com/51238282/66454748-5e4afa00-ea86-11e9-92d6-feca19008f52.png)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-
-- [Django Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
-> Official tutorials for thenewboston Django Tutorials for Beginners series
-
-[![thenewboston-django-tutorials](https://user-images.githubusercontent.com/42115530/66419039-f6ae9380-ea20-11e9-81c9-5b720b653805.PNG)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
-
-- [Django Tutorials - Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
-> Learn Django in these videos by following along as the instructor show you how to build a simple hello world app and then a guestbook app that uses the templates, models, and form functionality with Django. 
-
-[![Pretty-Printed-django-tutorials](https://user-images.githubusercontent.com/42115530/66419024-f0201c00-ea20-11e9-9aef-0e7c8fc55820.PNG)](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
-
 
 ## Understanding Git
 
@@ -65,10 +39,6 @@ All the resources & recommendations from the community. This repo have been seen
 ## StyleGuides
 
 - [Google](https://github.com/google/styleguide)
-
-## Research Papers
-
-- [Link](https://github.com/papers-we-love/papers-we-love)
 
 ## Design Patterns
 > A design system is a collection of documentation on principles and best practices, that helps guide a team to build digital products. They are often embodied in UI libraries and pattern libraries, but can extend to include guides on other areas such as 'Voice and Tone'.
@@ -91,6 +61,22 @@ All the resources & recommendations from the community. This repo have been seen
 ## Android
 
 - [Architecture](https://github.com/ribot/android-guidelines)
+
+## Cloud Guides
+
+- [AWS](https://github.com/open-guides/og-aws)
+
+## Django
+
+- [Django Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+> Official tutorials for thenewboston Django Tutorials for Beginners series
+
+[![thenewboston-django-tutorials](https://user-images.githubusercontent.com/42115530/66419039-f6ae9380-ea20-11e9-81c9-5b720b653805.PNG)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+
+- [Django Tutorials - Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
+> Learn Django in these videos by following along as the instructor show you how to build a simple hello world app and then a guestbook app that uses the templates, models, and form functionality with Django. 
+
+[![Pretty-Printed-django-tutorials](https://user-images.githubusercontent.com/42115530/66419024-f0201c00-ea20-11e9-9aef-0e7c8fc55820.PNG)](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 
 ## Machine Learning
 
@@ -138,6 +124,10 @@ All the resources & recommendations from the community. This repo have been seen
 
 [![refinforcement learning course on udacity](https://user-images.githubusercontent.com/33346480/66979366-d6d73980-f0ca-11e9-8731-bb98f95b817e.png)](https://www.udacity.com/course/reinforcement-learning--ud600)
 
+## Research Papers
+
+- [Link](https://github.com/papers-we-love/papers-we-love)
+
 ## Data Science
 
 - [Data Science Crash Course By Kaggle](https://www.kaggle.com/learn/overview)
@@ -171,9 +161,20 @@ HTML & CSS seems hard (But it doesn’t have to be). This is a friendly web deve
 
 [![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)](https://internetingishard.com/html-and-css/)
 
-## Cloud Guides
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+> You Don't Know JS is a free series of books for learning JavaScript at a deep level. Pick this resource if you want a strong understanding of JavaScript.
 
-- [AWS](https://github.com/open-guides/og-aws)
+[![you don't know js github](https://user-images.githubusercontent.com/4047597/66125034-93c59280-e603-11e9-9821-e7e01c360072.png)](https://github.com/getify/You-Dont-Know-JS)
+
+- [JavaScript.Info](https://javascript.info)
+> JavaScript.info is a web tutorial where you can find articles related to JavaScript from noob to advanced.
+
+[![javascript.info](https://user-images.githubusercontent.com/29889620/66137872-5e2ca380-e61b-11e9-9265-1841f4512527.png)](https://javascript.info)
+
+- [Node.js Crash Course by Traversy Media](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+> This course covers all Node.js fundamentals and teaches the important modules like Path, URL, FS, Events. Thereafter it shows how to create an HTTP server from scratch without Express and deploy everything to Heroku. Its very good for begginers to get a hands-on feel quickly.
+
+[![Node.js Crash Course by Traversy Media](https://user-images.githubusercontent.com/1084664/66899370-74256580-f018-11e9-9f91-4934446daa97.png)](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 
 ## Security
 
