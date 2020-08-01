@@ -144,6 +144,8 @@ All the resources & recommendations from the community. This repo have been seen
 
 - [Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
+- [Resources](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
 - [FreeCodeCamp Web Development curriculum](https://learn.freecodecamp.org/)
 > Learn HTML, CSS, JS and some advanced topics from the most popular online bootcamp. They also give you a free certificate for completing their training.
 
