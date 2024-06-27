@@ -142,6 +142,8 @@ All the resources & recommendations from the community. This repo have been seen
 
 - [Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
+- [Scaler Blogs Web Development Roadmap](https://www.scaler.com/blog/web-development-roadmap/)
+
 - [Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
 - [Resources](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
